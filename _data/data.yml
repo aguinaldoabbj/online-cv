@@ -47,7 +47,7 @@ sidebar:
         - item: Karting
           link:
 
-        - item: Fishing
+        - item: Gaming
           link:
           
         - item: Music 
@@ -56,10 +56,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-     Penguin character and the official brand character of the Linux kernel. Originally 
-     created as an entry to a Linux logo competition, Tux is the most commonly used icon 
-     for Linux, although different Linux distributions depict Tux in various styles. The 
-     character is used in many other Linux programs and as a general symbol of Linux.
+     Penguin character and the official brand character of the Linux kernel. 
+
 education:
     title: Education
     info:
@@ -101,89 +99,73 @@ experiences:
     info:
       - role: Mascot
         time: 1996 - Present
-        company:Linux Foundation, San Francisco
+        company: Linux Foundation, San Francisco
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Originally created as an entry to a Linux logo competition, Tux is the 
+          most commonly used icon for Linux, although different Linux distributions 
+          depict Tux in various styles. The character is used in many other Linux 
+          programs and as a general symbol of Linux.
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Involved directly or indirectly in most open source projects.
     assignments:
-      - title: Velocity
+      - title: GNU/Linux
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "GNU/Linux is a Unix-like operating system based on GNU and the Linux kernel."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Supertux
+        link: "http://supertux.org/"
+        tagline: "SuperTux is a free and open-source two-dimensional platform video game published under the GNU General Public License (GPL)."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: SuperTuxKart
+        link: "http://supertuxkart.net/"
+        tagline: "SuperTuxKart is a 3D open-source arcade racer with a variety characters, tracks, and modes to play."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Tux Racer
+        link: "https://en.wikipedia.org/wiki/Tux_Racer"
+        tagline: "Tux Racer is a 2000 open-source winter sports racing video game starring the Linux mascot, Tux the penguin."
 
 publications:
-    title: Publications
+    title: Main Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Involved directly or indirectly in several scientific publications.
+
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: The Linux operating system
+        link: "https://ieeexplore.ieee.org/document/402081"
+        authors: S.N. Bokhari
+        #conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+    newspapers:
+      - title: Beware the penguin, Bill
+        link: "https://www.independent.co.uk/arts-entertainment/network-beware-the-penguin-bill-1176258.html"
+        authors: Charles Arthur
+        #conference: Addison-Wesley, 1968
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Mascotery
+        level: 100%
+      - name: Operating Systems
+        level: 100%
 
-      - name: Javascript & jQuery
-        level: 98%
+strengths:
+    title: Strengths &amp; Values
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+    items:
+      - name: Teamwork
+      - name: Leadership
+      - name: Professionalism
+      - name: Punctuality
+      - name: Oral and written communication
+      - name: Analytical thinking/reasoning
+      - name: Persuasiveness
+      - name: Motivation
+      - name: Empathy
+      - name: Multiculturalism
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

@@ -1,0 +1,31 @@
+{% assign strengths = site.data.data.strengths %}
+{% if strengths %}
+<section class="strengths-section section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-anchor fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ strengths.title }}
+  </h2>
+  
+  <div class="strengthsset">
+  
+    {% for strength in strengths.items %}
+    <div class="item">
+      <li class="col-xs-6">{{ strength.name }}</li>
+  <!-- </ul> -->
+
+      <!-- <div class="level-bar">
+        <div class="level-bar-inner" data-level="{{ strength.level }}">
+        </div>
+      </div>//level-bar -->
+
+    </div><!--//item-->
+    {% endfor %}
+
+  </div>
+
+</section><!--//strengths-section-->
+{% endif %}
